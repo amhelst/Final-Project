@@ -4,7 +4,7 @@
 # Final Project
 
 # This program is a Dominican Republic Province Quiz Game. It will display an image of a DR map and will prompt the user to type a province.
-# It will ask for a province name for 31 times. One time per province. Once it ends it will create a CSV file with the provinces the user didn't get.
+# It will ask for a province name 31 times. One time per province. Once it ends it will create a CSV file with the provinces the user didn't guess correctly for them to learn.
 
 import turtle
 import csv
